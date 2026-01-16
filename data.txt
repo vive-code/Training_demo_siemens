@@ -1,2 +1,3 @@
 first demo file 
 created in github repository
+learning linux commmand also 
